@@ -20,7 +20,7 @@ The Console Banking App is a basic command-line application written in C++ that 
 
 
 ### Compile and Run the Program:
-- Compile the C++ source files (e.g., main.cpp, account.cpp).
+- Compile the C++ source file (e.g., main.cpp).
 - Execute the compiled binary to interact with the banking app.
 ### Customize and Extend:
 - Add error handling, interest calculations, or additional features as needed.
